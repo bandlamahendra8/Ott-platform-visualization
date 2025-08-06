@@ -1,7 +1,7 @@
 # Ott-platform-visualization
 This project explores and visualizes trends in the OTT (Over-The-Top) streaming industry using Python. It focuses on popular platforms such as Aha, Hotstar, and Prime Video, aiming to  patterns in content delivery and  With the rapid growth of the OTT market, understanding content trends  for improving platform performance and audience engagement
 
-## 🧠 Objective
+🧠 Objective
 
 The primary goal is to analyze various content features like **genre**, **language**, **release year**, **duration**, and **HD availability** across different OTT platforms. The insights gained help content strategists, marketers, and business decision-makers optimize platform offerings and improve viewer satisfaction.
 
@@ -14,7 +14,7 @@ The notebook conducts:
 
 ## 📂 Data Source
 
-The data was manually extracted from [91mobiles.com](https://www.91mobiles.com), where OTT platform movies are listed. The data includes:
+The data was manually extracted from [91mobiles.com], where OTT platform movies are listed. The data includes:
 - Title
 - Platform
 - Genre
